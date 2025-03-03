@@ -12,6 +12,7 @@ urls <- glue("{___}{___}")
 
 # map over all urls and output a data frame ------------------------------------
 
+#🛑 this takes several minutes to run 🛑 
 ___ <- map_dfr(___, ___)
 
 # write out data frame ---------------------------------------------------------
