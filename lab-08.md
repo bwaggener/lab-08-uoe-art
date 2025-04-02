@@ -160,7 +160,9 @@ uoe_art %>%
 
 The most commonly featured artist is Emma Gillies. This might be because
 she lived in near Edinburgh but also because her brother was a director
-at the college. \### Exercise 15
+at the college.
+
+### Exercise 15
 
 ``` r
 uoe_art %>%
