@@ -13,8 +13,6 @@ urls <- glue("{root}{numbers}")
 # map over all urls and output a data frame ------------------------------------
 
 
-### i havent done this yet####
-
 #🛑 this takes several minutes to run 🛑 
 uoe_art <- map_dfr(urls, scrape_page)
 
