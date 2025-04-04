@@ -52,6 +52,7 @@ I think the warnings are from where the date is not simply a four digit number. 
 ```{r ex11_skim}
 skim(uoe_art)
 ```
+
 there are 111 pieces of artist info missing. There are 1575 years missing
 
 
